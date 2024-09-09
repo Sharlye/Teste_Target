@@ -1,0 +1,13 @@
+ Vamos chamar os interruptores de A, B e C.
+
+Primeira ida:
+
+Ligue o interruptor A e o deixe ligado por alguns minutos. O objetivo é aquecer a lâmpada conectada a este interruptor.
+Depois de alguns minutos, desligue o interruptor A.
+Em seguida, ligue o interruptor B e vá até a sala das lâmpadas.
+
+Primeira ida até a sala:
+
+A lâmpada que está acesa corresponde ao interruptor B, que você deixou ligado.
+A lâmpada que está apagada e quente é controlada pelo interruptor A, porque ela estava ligada antes e foi desligada recentemente.
+A lâmpada que está apagada e fria é controlada pelo interruptor C, pois você não mexeu nele.
